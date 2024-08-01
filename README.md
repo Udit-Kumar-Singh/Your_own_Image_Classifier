@@ -46,7 +46,7 @@ print(classes)
 The trained model checkpoint, named checkpoint.pth, can be found [Here](https://drive.google.com/file/d/1GrnTD_ufY_s9iDkjdaPsRuhGT7apC7lA/view?usp=sharing). You can use this checkpoint to load the trained model for making predictions.
 
 ## 📝 Authors
-**Ankit Malik**
+**Udit kumar singh**
 
 ## 🙏 Acknowledgments
 This project is part of [certification Program](https://graduation.udacity.com/confirm/e/cc13cd48-0ae7-11ee-9d79-03ca8868a5bc).
